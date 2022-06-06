@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Front-end.
 
 - 📫 How to reach me ...
-Links de contato em: vacilou.site
+Links de contato em: https://lietz.dev.br e https://vacilouviroucronica.com
 
 <!---
 andersonlietz/andersonlietz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
