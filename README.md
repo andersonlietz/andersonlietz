@@ -7,7 +7,6 @@
 
 ## 
 
-- ###  I’m interested in **PHP**, **MySql**, **CSS3**, **JavaScript**, **HTML5**.
 - ###  I’m currently learning **PHP**, **Git** and **Github**
 - ###  <a href="emailto:contato@lietz.dev.br"> contato@lietz.dev.br </a>
 - ###  Meus sites: https://lietz.dev.br e https://vacilouviroucronica.com
