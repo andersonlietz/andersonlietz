@@ -6,9 +6,6 @@
   <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlietz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 
-
-- ###  I’m interested in **PHP**, **MySql**, **CSS3**, **JavaScript**, **HTML5**.
 - ###  I’m currently learning **PHP**, **Git** and **Github**
 - ###  <a href="emailto:contato@lietz.dev.br"> contato@lietz.dev.br </a>
 - ###  Meus sites: https://lietz.dev.br e https://vacilouviroucronica.com
