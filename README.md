@@ -8,7 +8,10 @@
 
 ## 
 
+<<<<<<< HEAD
 - ###  I’m interested in **PHP**, **MySql**, **CSS3**, **JavaScript**, **HTML5**.
+=======
+>>>>>>> 0f28813a060cb5e1f963a707d6496a9929396589
 - ###  I’m currently learning **PHP**, **Git** and **Github**
 - ###  <a href="emailto:contato@lietz.dev.br"> contato@lietz.dev.br </a>
 - ###  Meus sites: https://lietz.dev.br e https://vacilouviroucronica.com
