@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Anderson! Seja bem vindo ao meu perfil!
 
+
+- ###  Atualmente estou aprendendo **PHP**, **MySql**, **Git** e **Github**!
+- ###  <a href="emailto:contato@lietz.dev.br"> contato@lietz.dev.br </a>
+- ###  Meus sites: https://lietz.dev.br e https://vacilouviroucronica.com
+##
 <div>
   <a href="https://github.com/andersonlietz">
   <img height="190em" width="100%" src="https://github-readme-stats.vercel.app/api?username=andersonlietz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -8,10 +13,6 @@
 </div>
 
 ## 
-
-- ###  I’m currently learning **PHP**, **Git** and **Github**
-- ###  <a href="emailto:contato@lietz.dev.br"> contato@lietz.dev.br </a>
-- ###  Meus sites: https://lietz.dev.br e https://vacilouviroucronica.com
 
 <!---
 andersonlietz/andersonlietz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
