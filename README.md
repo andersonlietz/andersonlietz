@@ -2,8 +2,8 @@
 
 
 - ###  Atualmente estou aprendendo **PHP**, **MySql**, **Git** e **Github**!
-- ###  <a href="emailto:contato@lietz.dev.br"> contato@lietz.dev.br </a>
-- ###  Meus sites: https://lietz.dev.br e https://vacilouviroucronica.com
+- ###  Portfólio: https://lietz.dev.br
+- ###  E-mail:<a href="emailto:lietzanderson@gmail.com">lietzanderson@gmail.com</a>
 ##
 <div>
   <a href="https://github.com/andersonlietz">
